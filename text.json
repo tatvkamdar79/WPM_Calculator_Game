@@ -1,0 +1,24 @@
+{
+    "Easy" : {
+        "1" : "She advised him to see the dentist, but he said that he didn't have enough time to do so.",
+        "2" : "I'm not sure that's true. I haven't heard anything about it.",
+        "3" : "The only issue with learning through authentic media is that it is not designed for language learning."
+    },
+    "Hard" : {
+        "1" : "All the faith he had had had had no effect on the outcome of his life.",
+        "2" : "This awkward but grammatically correct sentence is a product of what is known as center embedding.",
+        "3" : "The plural of ox is oxen while the plural of box is boxes, rough rhymes with gruff."
+    },
+    "Insane" : {
+        "1" : "Buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo.",
+        "2" : "One morning I shot an elephant in my pajamas. How he got into my pajamas I will never know.",
+        "3" : "The complex houses married and single soldiers and their families."
+
+    },
+    "Russian" : {
+        "1" : "If, for a while, the ruse of desire is calculable for the uses of discipline, soon the repetition of guilt, justification, pseudo-scientific theories, superstition, spurious authorities and classification can be seen as the desperate effort to normalise normally the disturbance of a discourse of splitting that violates the rational enlightened claims of its enunciatory modality."
+    },
+    "Dont select this" : {
+        "1" : "Never gonna give you up, Never gonna let you down, Never gonna run around and desert you, Never gonna make you cry, Never gonna say goodbye, Never gonna tell a lie and hurt you"
+    }
+}
